@@ -29,7 +29,7 @@ github_username:  stsrki
 
 # Build settings
 theme: jekyll-theme-clean-blog
-remote_theme: "jekyll-theme-clean-blog"
+remote_theme: "StartBootstrap/startbootstrap-clean-blog-jekyll"
 markdown: kramdown
 highlighter: rouge
 
