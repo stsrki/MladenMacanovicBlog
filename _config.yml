@@ -22,7 +22,7 @@ title: Mladen Macanović
 # email: info@mladenmacanovic.com
 author: Mladen Macanović
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog.
+  Personal page and a blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mladenmacanovic.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MladenMacanovic
