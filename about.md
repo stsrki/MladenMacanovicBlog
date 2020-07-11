@@ -13,4 +13,4 @@ Most recently (sometime around 2018), I discovered a new framework from Microsof
 
 Blazorise was really soon accepted by the growing community and it's now one of the most popular component library around. I must say I'm really proud how it all ended.
 
-I'm also a father of a little boy and husband to a beautiful wife. When I'm not working in front of a computer, I usually go to the gym do some CrossFit, or go walk with my wife and a boy.
+I'm also a father of a little boy and husband to a beautiful wife. When I'm not working in front of a computer, I usually go to the gym and do some CrossFit, or go for a walk with my wife and son.
