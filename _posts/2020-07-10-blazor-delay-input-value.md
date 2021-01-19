@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blazor - delay input value"
+title: "Blazor - Delay input value"
 date: 2020-07-09 23:10:13
 background: '/assets/img/clocks01.jpg'
 ---
